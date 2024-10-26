@@ -1,0 +1,14 @@
+{
+  "TeacherInfo": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@outlook.com"
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "email": "jane.doe@outlook.com"
+    }
+  ]
+}

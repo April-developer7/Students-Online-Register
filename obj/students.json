@@ -1,0 +1,32 @@
+[
+    {
+        "id": 2400001,
+        "name": "David White",
+        "email": "davidwhite@students.uta.edu.au"
+    },
+    {
+        "id": 2400002,
+        "name": "Robert Black",
+        "email": "robertblack@students.uta.edu.au"
+    },
+    {
+        "id": 2400003,
+        "name": "Jennifer Reddie",
+        "email": "jenniferreddie@students.uta.edu.au"
+    },
+    {
+        "id": 2400004,
+        "name": "Linda Zhao",
+        "email": "lindazhao@students.uta.edu.au"
+    },
+    {
+        "id": 2500005,
+        "name": "Susan Ming",
+        "email": "susanming@students.uta.edu.au"
+    },
+    {
+        "id": 2500006,
+        "name": "Teresa Cha",
+        "email": "teresacha@students.uta.edu.au"
+    }
+]

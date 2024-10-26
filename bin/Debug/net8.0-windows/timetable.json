@@ -1,0 +1,16 @@
+{
+  "Subjects": [
+    {
+      "id": 1,
+      "subject": "Maths",
+      "day": "Monday",
+      "time": "9:30 Am"
+    },
+    {
+      "id": 2,
+      "name": "Computer Science",
+      "day": "Monday",
+      "time": "9:30 Am"
+    }
+  ]
+}

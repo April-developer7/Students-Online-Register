@@ -1,0 +1,68 @@
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\bin\Debug\net8.0-windows\Assessment 2.exe
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\bin\Debug\net8.0-windows\Assessment 2.deps.json
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\bin\Debug\net8.0-windows\Assessment 2.runtimeconfig.json
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\bin\Debug\net8.0-windows\Assessment 2.dll
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\bin\Debug\net8.0-windows\Assessment 2.pdb
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Admin_menu.resources
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Login.resources
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Properties.Resources.resources
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Student_menu.resources
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Teacher_menu.resources
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment 2.csproj.GenerateResource.cache
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment 2.AssemblyInfoInputs.cache
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment 2.AssemblyInfo.cs
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment 2.csproj.CoreCompileInputs.cache
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment 2.dll
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\refint\Assessment 2.dll
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment 2.pdb
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment 2.genruntimeconfig.cache
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\ref\Assessment 2.dll
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.RegisterUser.resources
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Subject_Setup.resources
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.List_Users.resources
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment 2.csproj.AssemblyReference.cache
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessme.DE846282.Up2Date
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Teacher_info.resources
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Teacher_subjects.resources
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Teaching_students.resources
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Student_info.resources
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Student_Register.resources
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Student_Subjects.resources
+C:\Users\panda\Documents\UTS_Masters\Session 2\Net applications\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Student_Timetable.resources
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\bin\Debug\net8.0-windows\Assessment 2.exe
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\bin\Debug\net8.0-windows\Assessment 2.deps.json
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\bin\Debug\net8.0-windows\Assessment 2.runtimeconfig.json
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\bin\Debug\net8.0-windows\Assessment 2.dll
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\bin\Debug\net8.0-windows\Assessment 2.pdb
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment 2.csproj.AssemblyReference.cache
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Admin_menu.resources
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.List_users.resources
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Login.resources
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Properties.Resources.resources
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.RegisterUser.resources
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Student_info.resources
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Student_menu.resources
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Student_Register.resources
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Student_Subjects.resources
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Student_Timetable.resources
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Subject_Setup.resources
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Teacher_info.resources
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Teacher_menu.resources
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Teacher_subjects.resources
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment_2.Teaching_students.resources
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment 2.csproj.GenerateResource.cache
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment 2.AssemblyInfoInputs.cache
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment 2.AssemblyInfo.cs
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment 2.csproj.CoreCompileInputs.cache
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessme.DE846282.Up2Date
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment 2.dll
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\refint\Assessment 2.dll
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment 2.pdb
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\Assessment 2.genruntimeconfig.cache
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\obj\Debug\net8.0-windows\ref\Assessment 2.dll
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\bin\Debug\net8.0-windows\nunit.framework.dll
+C:\Users\April\OneDrive - UTS\S2\.NET\.NET-A2-10.28\Assessment 2\Assessment 2\Assessment 2\bin\Debug\net8.0-windows\nunit.framework.legacy.dll
